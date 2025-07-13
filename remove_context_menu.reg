@@ -3,5 +3,5 @@ Windows Registry Editor Version 5.00
 ; Remove "Open with Claude Code" from folder context menu
 [-HKEY_CLASSES_ROOT\Directory\shell\OpenWithClaudeCode]
 
-; Remove "Open with Claude Code" from folder background context menu
+; Remove "Open with Claude Code" from folder background context menu  
 [-HKEY_CLASSES_ROOT\Directory\Background\shell\OpenWithClaudeCode]
