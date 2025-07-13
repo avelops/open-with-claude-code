@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(explorer:*)",
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(git init:*)",
+      "Bash(git add:*)"
+    ],
+    "deny": []
+  }
+}
