@@ -2,6 +2,8 @@
 
 This extension adds "Open with Claude Code" to your Windows right-click context menu, allowing you to quickly launch Claude Code in any folder.
 
+![Context Menu Screenshot](UI.png)
+
 ## Installation
 
 1. **Prerequisites**: Make sure you have Claude Code installed and the `claude` command is available in your PATH.
