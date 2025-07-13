@@ -3,7 +3,7 @@ Windows Registry Editor Version 5.00
 ; Add "Open with Claude Code" to folder context menu
 [HKEY_CLASSES_ROOT\Directory\shell\OpenWithClaudeCode]
 @="Open with Claude Code"
-"Icon"="cmd.exe,0"
+"Icon"="C:\\Users\\Lital\\Desktop\\Code\\open_with_claude_code\\claude.ico,0"
 
 [HKEY_CLASSES_ROOT\Directory\shell\OpenWithClaudeCode\command]
 @="cmd.exe /c \"cd /d \"%1\" && claude\""
@@ -11,7 +11,7 @@ Windows Registry Editor Version 5.00
 ; Add "Open with Claude Code" to folder background context menu
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenWithClaudeCode]
 @="Open with Claude Code"
-"Icon"="cmd.exe,0"
+"Icon"="C:\\Users\\Lital\\Desktop\\Code\\open_with_claude_code\\claude.ico,0"
 
 [HKEY_CLASSES_ROOT\Directory\Background\shell\OpenWithClaudeCode\command]
 @="cmd.exe /c \"cd /d \"%v\" && claude\""
